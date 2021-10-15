@@ -37,5 +37,12 @@ This is an analysis of Bitcoin Arbitrage Opportunities that existed back in 2018
 
 Stephen Thomas
 
+[Trilogy Education Services](https://www.trilogyed.com/)
 
+[UC Berkeley Extension ](https://extension.berkeley.edu/)
+
+---
+## License
+
+MIT
 
