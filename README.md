@@ -1,7 +1,7 @@
 # Bitcoin-Arbitrage
 
 
-![Bitcoin image](Bitcoin image.png)
+![Bitcoin image](Bitcoin_image.png)
 
 
 
